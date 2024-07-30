@@ -1,1 +1,1 @@
-Unity_poject_random_walk
+Proyecto realizado en Unity con scripts en C#
