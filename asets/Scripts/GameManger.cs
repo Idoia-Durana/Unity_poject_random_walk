@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     public Text puntuajeMaximoTexto;
 
     
-    private void Awake()//Awake Se utiliza para inicializar variables antes de que comience la ejecución del juego.
+    private void Awake()
     {
         puntuajeMaximoTexto.text = "Mejor: " + ObtenerPuntuajeMaximo().ToString(); 
     }
