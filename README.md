@@ -37,19 +37,19 @@ ZigZag Runner es un videojuego en 3D desarrollado en Unity donde el jugador cont
 # ZigZag Runner - Juego 3D
 ZigZag Runner is a 3D video game developed in Unity where the player controls a character running along a zigzag-shaped path. The player must press the Space key to change the character's direction and avoid falling off. The path is generated randomly as the character progresses, increasing the difficulty over time. The character also performs expressive movements while running.
 
-# Main Features
+## Main Features
 Simple character control with a single key (Space).
 Zigzag path that is randomly generated.
 Expressive animations of the character during the run.
 Gradual increase in difficulty with the game's speed.
 Scoring system based on the distance covered.
 
-# System Requirements
+## System Requirements
 Unity 2021.3 or higher
 Visual Studio 2019 or higher with C# support
 Operating System: Windows 10/11, macOS 10.15+, or Linux
 
-# Project Structure
+## Project Structure
 Assets/: Contains all the game resources, including scripts, models, textures, and scenes.
 Scripts/: C# source code that controls the game logic.
 Scenes/: Unity scenes where the game takes place.
