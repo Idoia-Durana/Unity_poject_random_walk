@@ -27,7 +27,13 @@ ZigZag Runner es un videojuego en 3D desarrollado en Unity donde el jugador cont
 - **Evita Caer**: Gira en el momento adecuado para evitar que el personaje caiga del borde del camino.
 
 
-##English
+
+
+
+
+
+
+
 # ZigZag Runner - Juego 3D
 ZigZag Runner is a 3D video game developed in Unity where the player controls a character running along a zigzag-shaped path. The player must press the Space key to change the character's direction and avoid falling off. The path is generated randomly as the character progresses, increasing the difficulty over time. The character also performs expressive movements while running.
 
