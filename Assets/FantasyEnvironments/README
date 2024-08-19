@@ -1,0 +1,9 @@
+file:///E/Qwe/Documents/Asset_Fantasy_Valley/Town/Assets/FantasyEnvironments/Environments/README.txt[28.02.2024 21:25:40]
+"Skybox" Environment Lighting in the scene does not affect the trees shader.
+How to change the ambient color of trees:
+If you want to make the trees brighter or darker go to
+Window > Rendering > Lighting Environment menu > environment lighting
+and select -gradient or -color instead -skybox
+Select the color you want.
+"Door" script serves to open doors for players and objects with Rigidbody component after crossing the
+trigger collider of the Town Gates
